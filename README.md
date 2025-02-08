@@ -5,8 +5,11 @@ In this exercise, we will simulate the implementation of an API designed to hand
 
 #  To setup environment 
 python3 -m venv env_fastapi
+
 cd env_fastapi/bin
+
 source activate env_fastapi
+
 pip install -r requirements.txt
 
 # To call API
